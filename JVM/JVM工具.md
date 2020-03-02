@@ -1,8 +1,8 @@
-##1、jconsole
+## 1、jconsole
 
 用于监控Java虚拟机使用JMX规范的图形工具。它可以监控本地和远程Java虚拟机，还可以监控和管理应用程序。
 
-##2、jvisualvm
+## 2、jvisualvm
 
 可以在JVM运行时提供有关Java技术的应用程序的详细信息。Java VisualVM提供内存和CPU分析、堆转储分析、内存泄露检测、MBean访问和垃圾收集。
 
