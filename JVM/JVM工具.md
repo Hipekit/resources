@@ -12,7 +12,7 @@
 
 jmap [option] vmid
 
-<img src="img/jmap主要选项.png" alt="jmap主要选项" style="zoom:50%;" />
+<img src="img/jmap主要选项.png" alt="jmap主要选项" width="50%" height="50%"/>
 
 ## 4、jps
 
@@ -37,7 +37,7 @@ jstat [option vmid [interval] [count] ]
 >
 > count：查询次数
 
-<img src="img/jstat选项.png" alt="jstat选项" style="zoom:50%;" />
+<img src="img/jstat选项.png" alt="jstat选项" width="50%" height="50%"/>
 
 ## 6、jinfo
 

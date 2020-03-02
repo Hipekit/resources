@@ -4,7 +4,7 @@
 
 Java虚拟机在执行Java程序的过程中会把它管理的内存划分为几个不同的数据区域。有些是随着虚拟机的进程一直存在，有些是随着线程的启动、结束而创建、销毁。
 
-<img src="img/运行时数据区域.png" alt="运行时数据区域" style="zoom:40%;" />
+<img src="img/运行时数据区域.png" alt="运行时数据区域" width="50%" height="50%" />
 
 ### 程序计数器
 
@@ -110,8 +110,8 @@ Java堆可以是固定大小的，也可以是可扩展的（通过`-Xms`和`-Xm
 
 * 句柄
 
-  <img src="img/句柄访问对象.png" alt="通过句柄访问对象" style="zoom:50%;" />
+  <img src="img/句柄访问对象.png" alt="通过句柄访问对象" width="50%" height="50%"/>
 
 * 直接指针
 
-  <img src="img/直接指针访问对象.png" alt="通过直接指针访问对象" style="zoom:50%;" />
+  <img src="img/直接指针访问对象.png" alt="通过直接指针访问对象" width="50%" height="50%"/>
